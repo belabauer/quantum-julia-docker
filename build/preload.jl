@@ -5,4 +5,5 @@ using LsqFit
 using Optim
 using MPI
 using DataFrames
+using Calculus
 

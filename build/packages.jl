@@ -5,5 +5,6 @@ Pkg.add("LsqFit")
 Pkg.add("Optim")
 Pkg.add("MPI")
 Pkg.add("DataFrames")
+Pkg.add("Calculus")
 
 
